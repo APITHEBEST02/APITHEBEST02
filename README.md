@@ -4,7 +4,7 @@
 ### Desarrollo de software · .NET / C# · Angular · Java
 **Aplicaciones web y de escritorio con foco en procesos de negocio**
 
-[LinkedIn](https://www.linkedin.com/in/luis-alfredo-ricopa-bardales-3408a2112/) · [Repositorios](https://github.com/APITHEBEST02?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/lricopa/) · [Repositorios](https://github.com/APITHEBEST02?tab=repositories)
 
 </div>
 
@@ -24,7 +24,7 @@ Me interesan oportunidades de desarrollo backend y full stack en equipos hispano
 | Web | Angular, TypeScript, React, Bootstrap |
 | Escritorio | WPF, XAML, MVVM, CommunityToolkit.Mvvm |
 | Datos | SQL Server, PostgreSQL, SQLite, Entity Framework Core, Dapper |
-| Arquitectura | Arquitectura limpia, puertos y adaptadores, CQRS, Repository, Unit of Work |
+| Arquitectura | Arquitectura limpia, hexagonal (puertos y adaptadores), DDD, CQRS, Repository, Unit of Work |
 | Integración | Apache Kafka, Elasticsearch, autenticación JWT |
 | Herramientas | Git, GitHub, Docker, Docker Compose |
 
@@ -43,10 +43,10 @@ API con operaciones de créditos, personas, calendarios y configuración. Separa
 ### MegatiqWeb y facturación electrónica
 **.NET + Angular · Código privado**
 
-Trabajo en aplicaciones de gestión y un módulo de comprobantes electrónicos. El código revisado incorpora separación de capas, objetos de valor, reglas de dominio y eventos, junto con pruebas del dominio y de aplicación.
+Trabajo en aplicaciones de gestión y un módulo de comprobantes electrónicos. El módulo incorpora separación de capas, objetos de valor, reglas de dominio y eventos, junto con pruebas del dominio y de aplicación.
 
 ### WPF MVVM Enterprise
-**Proyecto práctico de escritorio · C# + XAML**
+**Proyecto práctico de escritorio · C# + XAML · Código privado**
 
 Aplicación Windows con acceso local y mantenimiento de clientes. Uso de vistas XAML, enlaces de datos, comandos MVVM y persistencia con SQLite. Incluye una guía de aprendizaje basada en las vistas del proyecto.
 
@@ -59,4 +59,4 @@ Aplicación Windows con acceso local y mantenimiento de clientes. Uso de vistas 
 
 ## Conversemos
 
-Para oportunidades de desarrollo de software o colaboración profesional, puedes contactarme por [LinkedIn](https://www.linkedin.com/in/luis-alfredo-ricopa-bardales-3408a2112/).
+Para oportunidades de desarrollo de software o colaboración profesional, puedes contactarme por [LinkedIn](https://www.linkedin.com/in/lricopa/).
